@@ -13,5 +13,5 @@ spring:
     password: guest
 env: dev
 girl:
-  name: carlos
+  name: lili
   age: 22
