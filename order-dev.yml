@@ -33,7 +33,7 @@ spring:
 env: dev
 girl:
   name: lili
-  age: 22
+  age: 18
 feign:
   hystrix:
     enabled: true
